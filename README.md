@@ -44,9 +44,8 @@
 
 ## 📈 **GitHub Stats**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=apurvghotekar&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=apurvghotekar&theme=aura&hide_border=true)
 ![Apurv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvghotekar&theme=aura&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=apurvghotekar&theme=aura&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)]
 
 ---
 
